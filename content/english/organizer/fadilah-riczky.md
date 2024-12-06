@@ -6,15 +6,15 @@ description: this is meta description
 social:
   - name: github
     icon: fa-brands fa-github
-    link: https://github.com
+    link: https://github.com/itsmefdil
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
+  - name: instagram
+    icon: fa-brands fa-instagram
+    link: https://instagram.com/itsmefdil
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://linkedin.com/in/itsmefdil
 ---
 
 DevOps Engineer at Atmatech

@@ -27,23 +27,13 @@ To start using this template, you need to have some prerequisites installed on y
 - [Node v20+](https://nodejs.org/en/download/)
 - [Go v1.22+](https://go.dev/doc/install)
 
-### 👉 Project Setup
+### 👉 Local Deployment
 
+To deploy this template locally, you need to follow these 
 
-### 👉 Install Dependencies
-
-Install all the dependencies using the following command.
-
-```bash
-npm install
+steps:
 ```
-
-### 👉 Development Command
-
-Start the development server using the following command.
-
-```bash
-npm run dev
+bash deploy-local.sh
 ```
 
 
@@ -58,7 +48,7 @@ You can change the content of the site from the `content` folder. This includes 
 
 ### 👉 Events
 
-You can add new events from the `content/english/events` folder. Each event is a markdown file with all the details like title, date, description, image, categories, tags, and more.
+You can add new events from the `content/english/events` folder. copy `template.md` with new title. Each event is a markdown file with all the details like title, date, image, description, author, tags, categories, and more.
 
 ### 👉 Organizers
 
